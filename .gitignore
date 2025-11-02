@@ -166,3 +166,7 @@ dmypy.json
 cython_debug/
 
 
+
+# Migration files
+*/migrations/
+**/migrations/
